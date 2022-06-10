@@ -1,5 +1,7 @@
 # CIN-Census-Toolkit
-A SQL-based toolkit for working with CIN Census XML files
+A SQL-based toolkit for working with CIN Census XML files.
+
+For full guidance on using this code, please review the comments within the "CIN XML-SQL.sql" file itself.
 
 Lead partner/contributor: Bristol City Council
 
